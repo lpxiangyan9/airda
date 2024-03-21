@@ -140,6 +140,6 @@ DataAgent部署
 📖 文档
 ======
 
-请在\ `这里 <https://github.com/hitsz-ids/SQLAgent/blob/main/docs/README.md/>`__\ 查看完整文档，将随着demo更改和代码发布更新。
+请在\ `这里 <https://dataagent.readthedocs.io/zh/latest//>`__\ 查看完整文档，将随着demo更改和代码发布更新。
 
 .. |image1| image:: https://cdn.nlark.com/yuque/0/2024/png/197719/1710300903035-88553d9f-c683-4495-b48a-21ac46ec9c15.png#averageHue=%23f8f8f7&clientId=u2097a547-b42e-4&from=paste&height=433&id=zTI5J&originHeight=866&originWidth=1880&originalType=binary&ratio=2&rotation=0&showTitle=false&size=365231&status=done&style=none&taskId=ua5950672-3b82-42fc-b39f-bcffdb77ff4&title=&width=940
