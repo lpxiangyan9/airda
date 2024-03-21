@@ -1,6 +1,6 @@
-sphinx
-pydata-sphinx-theme
+Sphinx
 sphinxemoji
-sphinx_contributors
-sphinx_copybutton
+sphinx-copybutton
+sphinx-contributors
+git+https://github.com/SuperKogito/sphinxcontrib-pdfembed
 furo
