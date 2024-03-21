@@ -46,5 +46,3 @@
    CUDA_VISIBLE_DEVICES=0 python -m fastchat.serve.vllm_worker --model-path {PATH_TO_SQL_MODEL_DIR} --model-names {MODEL_NAME} --controller-address http://localhost:21001 --port 31002 --worker-address http://localhost:31002 --limit-worker-concurrency 10 --conv-template llama-2
    # 启动server 模块
    python -m fastchat.serve.openai_api_server --host {HOST} --port {PORT}
-
-###
