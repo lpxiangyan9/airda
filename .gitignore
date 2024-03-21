@@ -5,7 +5,7 @@
 
 #Python cache
 **/__pycache__
-
+docs/build
 # Env
 .env
 venv/
