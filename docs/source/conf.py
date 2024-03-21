@@ -26,10 +26,10 @@ author = 'hitsz-ids'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-    "sphinxemoji.sphinxemoji", "sphinx_contributors", "sphinx_copybutton",
-    "sphinxcontrib.pdfembed"
-]
+# extensions = [
+#     "sphinxemoji.sphinxemoji", "sphinx_contributors", "sphinx_copybutton",
+#     "sphinxcontrib.pdfembed"
+# ]
 sphinxemoji_style = 'twemoji'
 
 # Add any paths that contain templates here, relative to this directory.
@@ -45,7 +45,7 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'furo'
+html_theme = "furo"
 html_title = "DataAgent"
 
 # Add any paths that contain custom static files (such as style sheets) here,
