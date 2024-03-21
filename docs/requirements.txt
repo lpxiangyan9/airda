@@ -1,6 +1,5 @@
 sphinx
 pydata-sphinx-theme
-sphinxcontrib
 sphinxemoji
 sphinx_contributors
 sphinx_copybutton
