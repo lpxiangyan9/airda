@@ -4,3 +4,4 @@ sphinx-copybutton
 sphinx-contributors
 git+https://github.com/SuperKogito/sphinxcontrib-pdfembed
 furo
+sphinx_rtd_theme

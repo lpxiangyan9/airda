@@ -22,13 +22,13 @@ CPU：8核 内存：32GB+
 源码部署
 --------
 
-   SQLAgent依赖Python >= 3.9
+   SQLAgent依赖Python >= 3.10
 
 1、[可选] 创建conda环境
 
 .. code::
 
-   conda create -n sqlagent python=3.9
+   conda create -n sqlagent python=3.10
    conda activate sqlagent
 
 2、可以通过运行以下命令来下载源码和安装依赖：
@@ -39,7 +39,7 @@ CPU：8核 内存：32GB+
    git clone https://github.com/hitsz-ids/SQLAgent.git``
    cd SQLAgent
    # 安装依赖
-   pip install -r requirements.txt
+   pip install poetry && poetry install
 
 3、创建\ ``.env``\ 文件，可以从\ ``.env_template``\ 文件复制
 
