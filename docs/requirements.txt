@@ -1,2 +1,6 @@
 Sphinx
-sphinx_rtd_theme
+sphinxemoji
+sphinx-copybutton
+sphinx-contributors
+git+https://github.com/SuperKogito/sphinxcontrib-pdfembed
+furo
