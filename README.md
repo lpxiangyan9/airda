@@ -63,10 +63,10 @@ curl -X 'POST' \
 ## 👏 贡献
 我们欢迎各种贡献和建议，共同努力，使本项目更上一层楼！麻烦遵循以下步骤：
 
-- **步骤1：** 如果您想添加任何额外的功能、增强功能或在使用过程中遇到任何问题，请发布一个 [问题](https://github.com/hitsz-ids/SQLAgent/issues) 。如果您能遵循 [问题模板](https://github.com/hitsz-ids/SQLAgent/issues/1) 我们将不胜感激。问题将在那里被讨论和分配。
-- **步骤2：** 无论何时，当一个问题被分配后，您都可以按照 [PR模板](https://github.com/hitsz-ids/SQLAgent/pulls) 创建一个 [拉取请求](https://github.com/hitsz-ids/SQLAgent/pulls) 进行贡献。您也可以认领任何公开的问题。共同努力，我们可以使DataAgents变得更好！
+- **步骤1：** 如果您想添加任何额外的功能、增强功能或在使用过程中遇到任何问题，请发布一个 [问题](https://github.com/hitsz-ids/airda/issues) 。如果您能遵循 [问题模板](https://github.com/hitsz-ids/airda/issues/1) 我们将不胜感激。问题将在那里被讨论和分配。
+- **步骤2：** 无论何时，当一个问题被分配后，您都可以按照 [PR模板](https://github.com/hitsz-ids/airda/pulls) 创建一个 [拉取请求](https://github.com/hitsz-ids/airda/pulls) 进行贡献。您也可以认领任何公开的问题。共同努力，我们可以使DataAgents变得更好！
 - **步骤3：** 在审查和讨论后，PR将被合并或迭代。感谢您的贡献！
 
-在您开始之前，我们强烈建议您花一点时间检查 [这里](https://github.com/hitsz-ids/SQLAgent/blob/developing/CONTRIBUTING.md) 再进行贡献。
+在您开始之前，我们强烈建议您花一点时间检查 [这里](https://github.com/hitsz-ids/airda/blob/developing/CONTRIBUTING.md) 再进行贡献。
 ## 📖 文档
 请在[这里](https://docs.xlang.ai/)查看完整文档，将随着demo更改和代码发布更新。
